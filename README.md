@@ -4,7 +4,7 @@
 
 Depois que a plataforma mudou, **os alunos ficaram sem o progresso das aulas**. Agora, a única solução seria ir manualmente e clicar em "Concluir" em cada aula... **MAS NÓS SOMOS ALUNOS DA ONEBITCODE**! 💻😎
 
-Por que gastar tempo com isso se podemos criar um bot pra resolver? 🤘🔥
+Por que gastar tempo com isso se podemos automatizar esse processo ultilizando Node? 🤘🔥
 
 Então, o objetivo aqui é simples: fazer um script que marque as aulas automaticamente como concluídas, para que a gente possa focar no que interessa... aprender! 😅
 
